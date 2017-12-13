@@ -1,0 +1,16 @@
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\bin\Debug\netcoreapp2.0\xUnitBringPiTesting.deps.json
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\bin\Debug\netcoreapp2.0\xUnitBringPiTesting.runtimeconfig.json
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\bin\Debug\netcoreapp2.0\xUnitBringPiTesting.runtimeconfig.dev.json
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\bin\Debug\netcoreapp2.0\xUnitBringPiTesting.dll
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\bin\Debug\netcoreapp2.0\xUnitBringPiTesting.pdb
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\bin\Debug\netcoreapp2.0\BringPi.dll
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\bin\Debug\netcoreapp2.0\BringPi.pdb
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\obj\Debug\netcoreapp2.0\xUnitBringPiTesting.csprojResolveAssemblyReference.cache
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\obj\Debug\netcoreapp2.0\xUnitBringPiTesting.csproj.CoreCompileInputs.cache
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\obj\Debug\netcoreapp2.0\xUnitBringPiTesting.AssemblyInfoInputs.cache
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\obj\Debug\netcoreapp2.0\xUnitBringPiTesting.AssemblyInfo.cs
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\obj\Debug\netcoreapp2.0\xUnitBringPiTesting.dll
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\xUnitBringPiTesting\obj\Debug\netcoreapp2.0\xUnitBringPiTesting.pdb

@@ -1,0 +1,26 @@
+<mat-card>
+    <form [formGroup]="form" (ngSubmit)="onSubmit()">
+        <mat-input-container>
+            <input style="width:350px" [ngClass]="{'error': form.controls.userName.invalid}"  matInput placeholder="Username" formControlName="userName">
+        </mat-input-container>
+        <mat-input-container>
+            <input style="width:350px" [ngClass]="{'error': form.controls.firstName.invalid}"  matInput placeholder="First Name" formControlName="firstName">
+        </mat-input-container>
+        <mat-input-container>
+            <input style="width:350px" [ngClass]="{'error': form.controls.lastName.invalid}"  matInput placeholder="Last Name" formControlName="lastName">
+        </mat-input-container>
+        <mat-input-container>
+            <input style="width:350px" [ngClass]="{'error': form.controls.email.invalid}"  type="email" matInput placeholder="Email" formControlName="email">
+        </mat-input-container>
+        <mat-input-container>
+            <input style="width:350px" [ngClass]="{'error': form.controls.password.invalid}"  type="password" matInput placeholder="Password" formControlName="password">
+        </mat-input-container>
+        <mat-input-container>
+            <input style="width:350px" [ngClass]="{'error': form.controls.confirmPassword.invalid}"  type="password" matInput placeholder="Confirm Password" formControlName="confirmPassword">
+        </mat-input-container>
+        <br>
+        <span *ngIf ='form.errors?.mismatchedFields'>Passwords do not Match</span>
+        <br>
+        <button mat-raised-button color="primary">Register</button>
+    </form>
+</mat-card>

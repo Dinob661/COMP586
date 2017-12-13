@@ -1,0 +1,33 @@
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.AssemblyInfoInputs.cache
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.AssemblyInfo.cs
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.deps.json
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.runtimeconfig.json
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.runtimeconfig.dev.json
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.dll
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.pdb
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.dll
+C:\Users\Alexander Zanfir\Desktop\REDO\11_05\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.pdb
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.deps.json
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.runtimeconfig.json
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.runtimeconfig.dev.json
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.dll
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.pdb
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.csprojResolveAssemblyReference.cache
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.csproj.CoreCompileInputs.cache
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.AssemblyInfoInputs.cache
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.AssemblyInfo.cs
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.dll
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.pdb
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.deps.json
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.runtimeconfig.json
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.runtimeconfig.dev.json
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.dll
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.pdb
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.AssemblyInfoInputs.cache
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.AssemblyInfo.cs
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.dll
+C:\Users\User\Documents\messageboard\MessageBoardBackend\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.pdb

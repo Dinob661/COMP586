@@ -1,0 +1,11 @@
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\bin\Any CPU\Release\netcoreapp2.0\BringPi.deps.json
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\bin\Any CPU\Release\netcoreapp2.0\BringPi.runtimeconfig.json
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\bin\Any CPU\Release\netcoreapp2.0\BringPi.runtimeconfig.dev.json
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\bin\Any CPU\Release\netcoreapp2.0\BringPi.dll
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\bin\Any CPU\Release\netcoreapp2.0\BringPi.pdb
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\obj\Any CPU\Release\netcoreapp2.0\BringPi.csprojResolveAssemblyReference.cache
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\obj\Any CPU\Release\netcoreapp2.0\BringPi.csproj.CoreCompileInputs.cache
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\obj\Any CPU\Release\netcoreapp2.0\BringPi.AssemblyInfoInputs.cache
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\obj\Any CPU\Release\netcoreapp2.0\BringPi.AssemblyInfo.cs
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\obj\Any CPU\Release\netcoreapp2.0\BringPi.dll
+C:\Users\dinob\Documents\COMP586\OODEV Project\messageboard\BringPiBackend\BringPi\obj\Any CPU\Release\netcoreapp2.0\BringPi.pdb
