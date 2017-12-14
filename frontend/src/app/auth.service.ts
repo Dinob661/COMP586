@@ -33,6 +33,7 @@ export class AuthService {
     }
 
     get isAuthenticated() {
+        //local storage gets checks to see if token received from backend if received then true if not then false
         return !!localStorage.getItem(this.BACKEND_TOKEN);
     }
 
