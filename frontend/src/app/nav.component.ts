@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { AuthService } from './auth.service';
+import {RouterModule} from '@angular/router';
 
 // Pass in info from backend to nav bar. example auth.userName returns username obtained from DB
 @Component({
